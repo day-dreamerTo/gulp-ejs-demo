@@ -1,0 +1,9 @@
+{
+  "site":"gulp-ejs-example",
+  "styles":[
+    "../public/css/mui.min.css"
+  ],
+  "scripts":[
+    "../public/js/mui.min.js"
+  ]
+}

@@ -14,6 +14,7 @@
     "gulp": "^3.9.1",
     "gulp-data": "^1.2.1",
     "gulp-ejs": "^1.2.1",
+    "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.4"
   },
   "repository": {
@@ -21,4 +22,3 @@
     "url": "https://github.com/day-dreamerTo/gulp-ejs-example.git"
   }
 }
-

@@ -2,8 +2,16 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title></title>
+    <title><%= site %></title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="renderer" content="webkit">
+    <% styles.forEach(function(sty){ %>
+    <link rel="stylesheet" href="<%= sty %>">
+    <% }) %>
+    <% if(local.styles){
+    local.styles.forEach(function(sty){ %>
+    <link rel="stylesheet" href="<%= sty %>">
+    <% })
+    } %>
 </head>
 <body>

@@ -1,0 +1,8 @@
+.nav {
+  display: flex;
+}
+.nav li {
+  flex: 1;
+  height: 50px;
+  line-height: 50px;
+}
