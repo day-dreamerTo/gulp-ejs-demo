@@ -1,3 +1,8 @@
 {
-
+  "styles":[
+    "../dist/css/nav.css"
+  ],
+  "scripts":[
+    "../dist/js/nav.js"
+  ]
 }

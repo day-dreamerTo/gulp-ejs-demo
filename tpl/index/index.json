@@ -1,8 +1,10 @@
 {
   "styles":[
-    "../dist/css/index.css"
+    "../dist/css/index.css",
+    "../dist/css/nav.css"
   ],
   "scripts":[
-    "../dist/js/index.js"
+    "../dist/js/index.js",
+    "../dist/js/nav.js"
   ]
 }
