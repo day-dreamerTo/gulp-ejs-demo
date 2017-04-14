@@ -3,7 +3,6 @@
     "../dist/css/index.css"
   ],
   "scripts":[
-    "../dist/js/index.js",
-    "../dist/js/nav.js"
+    "../dist/js/index.js"
   ]
 }

@@ -51,8 +51,7 @@ gulp.task('dev', function() {
 
     browserSync.init({
         server: {
-            baseDir: './', // 注意这里的路径
-            index: './html/index.html'
+            baseDir: './' // 注意这里的路径
         },
         reloadDebounce: 0
     });
